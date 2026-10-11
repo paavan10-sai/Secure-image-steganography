@@ -1,0 +1,10 @@
+{
+  "method": "Texture-ranked blue-channel LSB",
+  "payload_bytes": 100,
+  "capacity_bytes": 6276,
+  "width": 194,
+  "height": 259,
+  "mse": 0.0027929254733378445,
+  "psnr_db": 73.67021013763383,
+  "output_file": "C:\\Users\\brahm\\OneDrive\\Desktop\\final project\\image\\output\\stego_20261009_132623.png"
+}

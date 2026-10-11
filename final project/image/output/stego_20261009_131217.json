@@ -1,0 +1,10 @@
+{
+  "method": "password-keyed texture-ranked blue-channel LSB",
+  "payload_bytes": 100,
+  "capacity_bytes": 196562,
+  "image_width": 1448,
+  "image_height": 1086,
+  "mse": 8.71208652564533e-05,
+  "psnr_db": 88.72958180825461,
+  "output_file": "C:\\Users\\brahm\\OneDrive\\Desktop\\final project\\image\\output\\stego_20261009_131217.png"
+}
